@@ -7,6 +7,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+        <a href="index.html" class="nav-link">Index</a>
 <div class="container">
   <div class="vertical-nav">
     <ul>
@@ -26,3 +27,4 @@
 </div>
 </body>
 </html>
+
