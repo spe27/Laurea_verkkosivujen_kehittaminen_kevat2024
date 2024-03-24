@@ -1,0 +1,49 @@
+
+header {
+    background-color: #241c1c;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
+  nav {
+    float: left;
+    width: 30%;
+    height: 200px;
+    background: #ccc;
+    padding: 20px;
+
+  }
+  
+  footer {
+    background-color: #772828;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+.vertical-nav {
+    float: left;
+    width: 10%;
+  }
+  
+  .vertical-nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .vertical-nav ul li {
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    float: left;
+    width: 80%;
+    color: #772828;
+  }
+  
+  nav a:hover {
+    color: red;
+  }
+  
